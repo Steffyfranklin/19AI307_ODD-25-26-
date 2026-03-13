@@ -52,6 +52,8 @@ public class FirstJavaProgram {
 ## RESULT:
 To write a Java program that prints the message "Hey, my first java program!" to the screen.
 
+
+
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
 ## QUESTION:
@@ -136,6 +138,8 @@ public class MagicalElevator {
 
 ## RESULT:
 The program correctly prints “Skipped,” “Beware!,” “Blessings!,” or “Floor {number}” according to the elevator's magical rules.
+
+
 
 # Ex.No:1(C) LOOPING STATEMENT
 
@@ -279,6 +283,7 @@ public class AverageArray {
 The program successfully computes and displays the average value of all the array elements entered by the user.
 
 
+
 # Ex.No:1(E) STRINGS AND MATH FUNCTION
 
 ## QUESTION:
@@ -341,5 +346,3 @@ public class ReverseString {
 
 ## RESULT:
 The program successfully displays the reversed version of the input string.
-
-
