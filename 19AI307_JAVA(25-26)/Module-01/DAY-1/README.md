@@ -25,8 +25,8 @@ To write a Java program that prints the message "Hey, my first java program!" to
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Austin Aro A
-RegisterNumber: 212224040038
+Developed by: STEFFY AAVLIN RAJ F S
+RegisterNumber: 212224040330
 */
 ```
 
@@ -51,4 +51,5 @@ public class FirstJavaProgram {
 
 ## RESULT:
 To write a Java program that prints the message "Hey, my first java program!" to the screen.
+
 
